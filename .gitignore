@@ -49,7 +49,15 @@ Thumbs.db
 
 # Directories        #
 ######################
+<<<<<<< HEAD
 Misc/
 Output/
 
+=======
+Shapefiles/*
+Misc/
+Output/
+Primary_data/*
+Secondary_data/*
+>>>>>>> 9f903727f1fa74e98d2237a45d46d2976f3a289d
 
