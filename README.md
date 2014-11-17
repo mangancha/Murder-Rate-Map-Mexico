@@ -18,3 +18,5 @@ Additionally you'll need to download the necesary shapefiles from [INEGI](http:/
 * Marco geoestadístico municipal 1995 (Conteo de Población y Vivienda 1995)
 * Marco geoestadístico municipal 2000 (Censo General de Población y Vivienda 2000)
 * Marco geoestadístico 2010 versión 5.0.A a (Censo de Población y Vivienda 2010)
+
+![Homicide Rate in Mexico: 2013](http://mangancha.org/blog/wp-content/uploads/2014/11/2013-INEGI-v2.png)
