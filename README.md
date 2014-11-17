@@ -1,7 +1,7 @@
 Murder-Rate-Map-Mexico
 ======================
 
-This project is inspired in some great work from others (see [Diego Valle](https://www.diegovalle.net/) and [Jose Gonzalez](https://github.com/josecarlosgonz)), and by the commendable effort made by INEGI to made a murder data and other relevant statistics available.
+This project is inspired in some great work from others (see [Diego Valle](https://www.diegovalle.net/) and [Jose Gonzalez](https://github.com/josecarlosgonz)), and by the commendable effort by INEGI to make murder data and other relevant statistics available.
 
 It consists on a couple of R scripts to prepare the data and plot murder rate maps for Mexico. The source information is (a) Homicide Murder Data from INEGI, (b) Population Data from INEGI and (c) Geostatistical Data (in the form of shapefiles/maps), also from INEGI.
 
