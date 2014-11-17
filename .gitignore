@@ -10,13 +10,11 @@
 *.rar
 *.tar
 *.zip
-
 # Logs and databases #
 ######################
 *.log
 *.sql
 *.sqlite
-
 # OS generated files #
 ######################
 .DS_Store
@@ -26,33 +24,23 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-
 # Other
 ######################
 *~
 .xls
 .xlsx
 .html
-
 # R generated files #
 ######################
-
 # History files
 .Rhistory
-
 # Example code in package build process
 *-Ex.R
-
 # R data files from past sessions
 .Rdata
-
 .Rproj.user
-
 # Directories        #
 ######################
-
 Misc/
 Output/
-
-
-
+README.html
